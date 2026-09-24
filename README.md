@@ -5,6 +5,6 @@
 
 **WIP**
 
-This version of PSPdisp introduces bug fixes and enhancements for smooth fps, and adds 2 new features on the psp side: color control and screenshot support
+This version of PSPdisp introduces smoother FPS performance and adds two new PSP-side features: color controls and screenshot support. It also improves mouse coordinate accuracy, allowing the PSP to more accurately reflect the mouse position on the PC.
 
 
