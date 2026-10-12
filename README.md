@@ -1,6 +1,10 @@
 # PSPdisp-improved
 <img width="134" height="74" alt="ICON0" src="https://github.com/user-attachments/assets/1deb287e-bdbd-47d9-8658-3033e29c91ad" />
 
+Original software: https://www.jjs.at/software/pspdisp.html
+
+USB mode in windows 11 tutorial: https://www.reddit.com/r/PSP/comments/1fsldjm/pspdisp_usb_mode_windows_11_solution/
+
 --------------------------
 
 **WIP**
