@@ -19,11 +19,11 @@
 
 # Recommended settings
 
-(PSP) 
+**PSP:**
 
 2/9 - Picture: Saturation 100% / Contrast: 115% / Brightness: -15% 
 
-(PC) 
+**PC**
 
 Options > Scale mouse cursor - Fast image stretching on 
 
