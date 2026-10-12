@@ -19,6 +19,14 @@
 
 # Recommended settings
 
-(PSP) 2/9 - Picture: Saturation 100% / Contrast: 115% / Brightness: -15% 
+(PSP) 
 
+2/9 - Picture: Saturation 100% / Contrast: 115% / Brightness: -15% 
 
+(PC) 
+
+Options > Scale mouse cursor - Fast image stretching on 
+
+Quality > Uncompressed
+
+Viewport size > 480x272
