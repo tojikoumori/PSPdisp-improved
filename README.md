@@ -15,4 +15,10 @@
 
 ☑︎ Color controls (Saturation, contrast, brightness, red gain, green gain, blue gain)
 
+☑︎ PSP Overclock settings (366-383-400-418-433)
+
+# Recommended settings
+
+(PSP) 2/9 - Picture: Saturation 100% / Contrast: 115% / Brightness: -15% 
+
 
