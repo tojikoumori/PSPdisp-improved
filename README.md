@@ -29,7 +29,7 @@
 Change PC settings: No compression ON - Quality: Highest
 
 
-**PC:** Options > Scale mouse cursor - Fast image stretching on - Higher process priority
+**PC:** Options > Fast image stretching on - Higher process priority
 
 Viewport size > 480x272
 
