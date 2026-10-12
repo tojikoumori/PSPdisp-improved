@@ -14,6 +14,8 @@
 
 ☐ Audio fix
 
+☐ Screenshot feature
+
 ☑︎ No tearing
 
 ☑︎ Mouse coordinate accuracy fix (allows the PSP to accurately reflect the mouse position on the PC)
