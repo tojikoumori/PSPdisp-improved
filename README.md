@@ -5,6 +5,14 @@
 
 **WIP**
 
-This version of PSPdisp introduces smoother FPS performance and adds two new PSP-side features: color controls and screenshot support. It also improves mouse coordinate accuracy, allowing the PSP to more accurately reflect the mouse position on the PC.
+# Changes
+
+☐ Audio fix
+
+☑︎ No tearing
+
+☑︎ Mouse coordinate accuracy fix (allows the PSP to more accurately reflect the mouse position on the PC)
+
+☑︎ Color controls (Saturation, contrast, brightness, red gain, green gain, blue gain)
 
 
