@@ -21,9 +21,9 @@
 
 **PSP:** 2/9 - Picture: Saturation 100% / Contrast: 115% / Brightness: -15% 
 
-Change PC settings: No compression OFF - Quality: Highest
+Change PC settings: No compression ON - Quality: Highest
 
 
-**PC:** Options > Scale mouse cursor - Fast image stretching on 
+**PC:** Options > Scale mouse cursor - Fast image stretching on - Higher process priority
 
 Viewport size > 480x272
