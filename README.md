@@ -27,3 +27,5 @@ Change PC settings: No compression ON - Quality: Highest
 **PC:** Options > Scale mouse cursor - Fast image stretching on - Higher process priority
 
 Viewport size > 480x272
+
+*If streaming a game, it is recommended to adjust that game's settings to the lowest resolution and cap it at 30 fps*
