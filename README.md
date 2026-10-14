@@ -8,13 +8,17 @@
 
 --------------------------
 
-**WIP**
+# Status: WIP
+
+-------------------------
 
 # Changes
 
 ☐ Audio fix
 
-☐ Screenshot feature
+☐ prxshot plugin compatibility
+
+☐ Windows side setting to automatically adjust your game's resolution and cap it at 30 fps
 
 ☑︎ No tearing
 
