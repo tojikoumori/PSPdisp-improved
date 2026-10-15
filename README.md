@@ -24,7 +24,7 @@
 
 ☑︎ Mouse coordinate accuracy fix (allows the PSP to accurately reflect the mouse position on the PC)
 
-☑︎ Color controls (Saturation, contrast, brightness, red gain, green gain, blue gain)
+☑︎ PSP Color controls (Saturation, contrast, brightness, red gain, green gain, blue gain)
 
 ☑︎ PSP Overclock settings (366-383-400-418-433)
 
