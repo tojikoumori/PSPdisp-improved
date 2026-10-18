@@ -14,9 +14,11 @@
 
 # Changes
 
-☑︎ Audio fix (11025 Hz)
+☐ 4410 Hz Audio fix 
 
 ☑︎ Screenshot feature 
+
+☐ Screen recording feature
 
 ☑︎ No tearing
 
