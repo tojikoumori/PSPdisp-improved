@@ -26,7 +26,7 @@
 
 # Recommended settings
 
-**PSP:** 2/9 - Picture: Saturation 100% / Contrast: 115% / Brightness: -15% 
+**PSP:** 2/9 - Picture: Saturation 100% / Contrast: 115% / Brightness: -10% 
 
 Change PC settings: Quality > No compression 
 
