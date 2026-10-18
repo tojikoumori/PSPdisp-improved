@@ -16,7 +16,7 @@
 
 ☐ 4410 Hz Audio fix 
 
-☑︎ Screenshot feature 
+☑︎ Screenshot feature (to polish)
 
 ☐ Screen recording feature
 
