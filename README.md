@@ -14,11 +14,9 @@
 
 # Changes
 
-☐ Audio fix
+☑︎ Audio fix (11025 Hz)
 
-☐ prxshot plugin compatibility
-
-☐ Windows side setting to automatically adjust your game's resolution and cap it at 30 fps
+☑︎ Screenshot feature 
 
 ☑︎ No tearing
 
@@ -26,17 +24,13 @@
 
 ☑︎ PSP Color controls (Saturation, contrast, brightness, red gain, green gain, blue gain)
 
-☑︎ PSP Overclock settings (366-383-400-418-433)
-
 # Recommended settings
 
 **PSP:** 2/9 - Picture: Saturation 100% / Contrast: 115% / Brightness: -15% 
 
-Change PC settings: No compression ON - Quality: Highest
+Change PC settings: Quality > No compression 
 
 
 **PC:** Options > Fast image stretching on - Higher process priority
 
 Viewport size > 480x272
-
-*If streaming a game, it is recommended to adjust that game's settings to the lowest resolution and cap it at 30 fps*
