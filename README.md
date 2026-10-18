@@ -31,6 +31,6 @@
 Change PC settings: Quality > No compression 
 
 
-**PC:** Options > Fast image stretching on - Higher process priority
+**PC:** Options > Higher process priority
 
-Viewport size > 480x272
+Viewport size > 960x544
