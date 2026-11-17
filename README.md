@@ -18,7 +18,7 @@
 
 ☑︎ Screenshot feature
 
-☐ Screen recording feature
+☑︎ Screen recording feature
 
 ☑︎ No tearing
 
