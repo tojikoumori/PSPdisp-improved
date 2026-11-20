@@ -1,6 +1,6 @@
 # PSPdisp 
 
-<img width="134" height="74" alt="ICON0" src="https://github.com/user-attachments/assets/1deb287e-bdbd-47d9-8658-3033e29c91ad" />
+<img width="144" height="80" alt="PIC0" src="https://github.com/user-attachments/assets/aa244c0d-667c-4a8e-98f3-36efcff13473" />
 
 **Original software:** https://www.jjs.at/software/pspdisp.html
 
