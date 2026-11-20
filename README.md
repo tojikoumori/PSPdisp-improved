@@ -15,23 +15,3 @@ Change PC settings: Quality > No compression
 **PC:** Options > Higher process priority
 
 Viewport size > 960x544
-
---------------------------
-
-# Changes
-
-☑︎ 4410 Hz Audio fix 
-
-☑︎ Screenshot feature
-
-☑︎ Screen recording feature
-
-☑︎ No tearing
-
-☑︎ Mouse coordinate accuracy fix (allows the PSP to accurately reflect the mouse position on the PC)
-
-☑︎ PSP Color controls (Saturation, contrast, brightness, red gain, green gain, blue gain)
-
-# To do 
-
-Better image quality over wlan
