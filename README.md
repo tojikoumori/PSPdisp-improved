@@ -12,6 +12,4 @@ _PSPbeam is an independently maintained continuation and modification of PSPdisp
 
 Change PC settings: Quality > No compression 
 
-**PC:** Options > Higher process priority
-
-Viewport size > 960x544
+**PC:** Viewport size > 960x544
