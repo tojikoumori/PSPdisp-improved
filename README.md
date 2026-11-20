@@ -6,15 +6,21 @@
 
 **USB mode in windows 11 tutorial:** https://www.reddit.com/r/PSP/comments/1fsldjm/pspdisp_usb_mode_windows_11_solution/
 
+# Recommended settings
+
+**PSP:** 2/9 - Picture: Saturation 100% / Contrast: 115% / Brightness: -10% 
+
+Change PC settings: Quality > No compression 
+
+**PC:** Options > Higher process priority
+
+Viewport size > 960x544
+
 --------------------------
-
-# Status: WIP
-
--------------------------
 
 # Changes
 
-☐ 4410 Hz Audio fix 
+☑︎ 4410 Hz Audio fix 
 
 ☑︎ Screenshot feature
 
@@ -26,13 +32,6 @@
 
 ☑︎ PSP Color controls (Saturation, contrast, brightness, red gain, green gain, blue gain)
 
-# Recommended settings
+# To do 
 
-**PSP:** 2/9 - Picture: Saturation 100% / Contrast: 115% / Brightness: -10% 
-
-Change PC settings: Quality > No compression 
-
-
-**PC:** Options > Higher process priority
-
-Viewport size > 960x544
+Better image quality over wlan
