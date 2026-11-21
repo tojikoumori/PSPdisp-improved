@@ -1,6 +1,6 @@
 # PSPbeam Contributions — Non-Commercial License
 
-**Copyright © 2026 PSPbeam Project. All rights reserved.**
+**Copyright © 2026 tojikoumori - PSPbeam Project. All rights reserved.**
 
 ## 1. Scope
 
