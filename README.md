@@ -14,17 +14,3 @@ _PSPbeam is an independently maintained continuation and modification of PSPdisp
 Change PC settings: Quality > No compression 
 
 **PC:** Viewport size > 960x544
-
-## Licenses
-
-### Original PSPdisp Code
-PSPdisp code retains its original BSD 3-Clause license.
-See [Source/license.txt](Source/license.txt).
-
-### PSPbeam Contributions
-Original PSPbeam contributions covered by the custom license:
-[PSPbeam Contributions License](PSPBEAM-CONTRIBUTIONS-LICENSE.md).
-
-### Third-Party Components
-Third-party components retain their respective licenses and copyright notices.
-See [CREDITS.md](CREDITS.md) for details.
