@@ -7,7 +7,7 @@ _PSPbeam is an independently maintained continuation and modification of PSPdisp
 
 ## Recommended settings
 
-**USB mode in windows 11 tutorial:** https://www.reddit.com/r/PSP/comments/1fsldjm/pspdisp_usb_mode_windows_11_solution/
+[USB mode in windows 11 tutorial](https://www.reddit.com/r/PSP/comments/1fsldjm/pspdisp_usb_mode_windows_11_solution/)
 
 **PSP:** 2/9 - Picture: Saturation 100% / Contrast: 115% / Brightness: -10% 
 
