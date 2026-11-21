@@ -6,7 +6,9 @@ _PSPbeam is an independently maintained continuation and modification of PSPdisp
 
 ## Features 
 
-- **Screenshot and video capture (with audio)** functionality, you can access it pressing the home button. it will capture the screen that is under the menu!! example screenshot i took: <img width="480" height="272" alt="pspdisp_0004" src="https://github.com/user-attachments/assets/f50b5fd4-c43f-4b00-adf5-fb0cbb56c986" />
+- **Screenshot and video capture (with audio)** functionality, you can access it pressing the home button. it will capture the screen that is under the menu!! example screenshot i took:
+
+<img width="480" height="272" alt="pspdisp_0004" src="https://github.com/user-attachments/assets/f50b5fd4-c43f-4b00-adf5-fb0cbb56c986" />
 
 - **PSP Color controls** (Saturation, contrast, brightness, red gain, green gain, blue gain) - you can now adjust the colors as you like
 
